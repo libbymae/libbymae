@@ -2,7 +2,7 @@
 
 # hello ❤️, my name is libby.
 
-i am a supporter of [free software](https://www.gnu.org/philosophy/free-sw.en.html).  because of this, my github is only a place-holder.  my own personal projects (if any exist) are hosted on [codeberg](https://codeberg.org/libbymae).
+i am a supporter of [free software](https://www.gnu.org/philosophy/free-sw.en.html).  because of this, my github is only a place-holder.  my projects (if any exist) are hosted on [codeberg](https://codeberg.org/libbymae).
 
 ## about me
  check out my [personal website](https://libbymae.codeberg.page/).
