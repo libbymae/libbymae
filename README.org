@@ -1,0 +1,12 @@
+#+title:
+#+options: toc:nil
+
+#+begin_export html
+<img src="https://files.catbox.moe/ek3g7v.png" align="right" width="300" />
+#+end_export
+
+* Hello ❤️, I'm Libby.
+
+** About Me
+
+Check out my [[https://libbymae.codeberg.page/][personal website]].
