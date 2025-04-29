@@ -1,4 +1,4 @@
-<img src="[https://files.catbox.moe/ek3g7v.png](https://glegle.gallery/posts/[www.glegle.gallery]%20modern_glegle%20hoodie%20parody%20snoopy%20-%201123.png)" align="right" width="300" />
+<img src="https://files.catbox.moe/w76z4j.png" align="right" height="300" />
 
 # Hello ❤️, I'm Libby.
 
