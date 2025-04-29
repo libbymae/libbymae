@@ -1,4 +1,4 @@
-<img src="https://glegle.gallery/posts/[www.glegle.gallery]%20handdrawn%20-%2013928.png" align="right" height="300" />
+<img src="https://glegle.gallery/posts/[www.glegle.gallery]%20handdrawn%20-%2013928.png" align="right" height="250" />
 
 # hello ❤️, my name is libby.
 
